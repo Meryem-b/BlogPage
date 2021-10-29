@@ -1,0 +1,155 @@
+Microsoft Windows [Version 10.0.19042.1237]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\z004du6d>cd /Users/z004du6d/eclipse-workspace/Meryem
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>git init
+Initialized empty Git repository in C:/Users/z004du6d/eclipse-workspace/Meryem/.git/
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>git add .
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   0.JPG
+        new file:   10.jpg
+        new file:   11.jpg
+        new file:   111.jpg
+        new file:   12.jpg
+        new file:   13.jpg
+        new file:   222.jpg
+        new file:   333.jpg
+        new file:   4.jpg
+        new file:   5.jpg
+        new file:   6.jpg
+        new file:   777.jpg
+        new file:   8.jpg
+        new file:   99.jpg
+        new file:   IMG_E9958_Moment(2).jpg
+        new file:   ITU.jpg
+        new file:   ITU1.jpg
+        new file:   ITU22.jpg
+        new file:   ITU55.jpg
+        new file:   Java.php
+        new file:   MeryemAboutPage.php
+        new file:   MeryemArticle.php
+        new file:   MeryemArticles.php
+        new file:   MeryemLoginPage.php
+        new file:   MeryemSemaBolat.php
+        new file:   Mezun.php
+        new file:   MezunPig.php
+        new file:   Web.php
+        new file:   a.jpg
+        new file:   abr.jpg
+        new file:   app.css
+        new file:   app.js
+        new file:   article1.jpg
+        new file:   article2.jpg
+        new file:   article3.jpg
+        new file:   article4.jpg
+        new file:   article5.jpg
+        new file:   article6.jpg
+        new file:   article7.jpg
+        new file:   article8.jpg
+        new file:   article9.jpg
+        new file:   computer.jpg
+        new file:   dep.jpg
+        new file:   doc.jpg
+        new file:   "it\303\274l\303\274.JPG"
+        new file:   java.png
+        new file:   mate.jpg
+        new file:   teori.jpg
+        new file:   web.jpg
+        new file:   webcv.pdf
+        new file:   webcv.tex
+        new file:   work.jpg
+
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>git commit -m "First commit"
+[master (root-commit) b2746e7] First commit
+ Committer: Bolat <meryem.bolat@siemens.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 52 files changed, 3056 insertions(+)
+ create mode 100644 0.JPG
+ create mode 100644 10.jpg
+ create mode 100644 11.jpg
+ create mode 100644 111.jpg
+ create mode 100644 12.jpg
+ create mode 100644 13.jpg
+ create mode 100644 222.jpg
+ create mode 100644 333.jpg
+ create mode 100644 4.jpg
+ create mode 100644 5.jpg
+ create mode 100644 6.jpg
+ create mode 100644 777.jpg
+ create mode 100644 8.jpg
+ create mode 100644 99.jpg
+ create mode 100644 IMG_E9958_Moment(2).jpg
+ create mode 100644 ITU.jpg
+ create mode 100644 ITU1.jpg
+ create mode 100644 ITU22.jpg
+ create mode 100644 ITU55.jpg
+ create mode 100644 Java.php
+ create mode 100644 MeryemAboutPage.php
+ create mode 100644 MeryemArticle.php
+ create mode 100644 MeryemArticles.php
+ create mode 100644 MeryemLoginPage.php
+ create mode 100644 MeryemSemaBolat.php
+ create mode 100644 Mezun.php
+ create mode 100644 MezunPig.php
+ create mode 100644 Web.php
+ create mode 100644 a.jpg
+ create mode 100644 abr.jpg
+ create mode 100644 app.css
+ create mode 100644 app.js
+ create mode 100644 article1.jpg
+ create mode 100644 article2.jpg
+ create mode 100644 article3.jpg
+ create mode 100644 article4.jpg
+ create mode 100644 article5.jpg
+ create mode 100644 article6.jpg
+ create mode 100644 article7.jpg
+ create mode 100644 article8.jpg
+ create mode 100644 article9.jpg
+ create mode 100644 computer.jpg
+ create mode 100644 dep.jpg
+ create mode 100644 doc.jpg
+ create mode 100644 "it\303\274l\303\274.JPG"
+ create mode 100644 java.png
+ create mode 100644 mate.jpg
+ create mode 100644 teori.jpg
+ create mode 100644 web.jpg
+ create mode 100644 webcv.pdf
+ create mode 100644 webcv.tex
+ create mode 100644 work.jpg
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>git remote add origin https://github.com/meryem-s/BlogPage-Meryem.git
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>git push -u origin master
+Enumerating objects: 54, done.
+Counting objects: 100% (54/54), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (54/54), done.
+Writing objects: 100% (54/54), 18.42 MiB | 610.00 KiB/s, done.
+Total 54 (delta 9), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (9/9), done.
+To https://github.com/meryem-s/BlogPage-Meryem.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+C:\Users\z004du6d\eclipse-workspace\Meryem>
